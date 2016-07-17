@@ -1,9 +1,9 @@
 body{
-    background-color: #1c2531;
+    background-color: chartreuse	;
     padding-left:100px;
     padding-top: 50px;
     padding-right: 100px;
-    font-family: 'New Century Schoolbook', serif;;
+    font-family: 'Arial';
 }
 
 img{
@@ -11,17 +11,17 @@ img{
 }
 
 
-#bg{
-    border: 4px solid floralwhite;
+#ct{
+    border: 4px solid darkturquoise;
     border-radius: 100%;
 }
 
 a, a:visited{
   text-decoration: none;
-  color:deeppink ;
+  color: hotpink;
 }
 
 p{
-  color: floralwhite;
+  color: darkturquoise;
   font-size: 24px;
 }
