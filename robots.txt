@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /Images/DSC_07321.resized.png
-Disallow: /Images/DSC_0732.resized.JPG
-Disallow: /Resume
