@@ -1,0 +1,15 @@
+.img2 {
+	float:left;
+}
+
+a, a:visited{
+  text-decoration: none;
+  color:#DC143C ;
+}
+
+img:hover {
+    /*opacity: .5;*/
+    -moz-box-shadow: 0 0 20px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 0 20px rgba(0,0,0,0.5);
+	box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
